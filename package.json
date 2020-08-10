@@ -4,7 +4,8 @@
   "description": "proyecto web ciclistas de alto rendimiento.",
   "main": "test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "webpack -d"
   },
   "author": "Fabio Sánchez",
   "license": "ISC",
